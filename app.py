@@ -57,7 +57,7 @@ tabs = st.tabs(["Crimes Over Time", "Median Income","Nationality Distribution by
 # Load the data
 @st.cache_data
 def load_data():
-    data = pd.read_csv("Ddta/Clean_Zurich_Data_Income_Crime_Nationalities.csv")
+    data = pd.read_csv("data/Clean_Zurich_Data_Income_Crime_Nationalities.csv")
     return data
 
 data = load_data()
