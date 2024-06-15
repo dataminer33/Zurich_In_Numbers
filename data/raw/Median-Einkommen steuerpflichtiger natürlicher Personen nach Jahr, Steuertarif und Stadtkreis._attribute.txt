@@ -1,0 +1,11 @@
+Attribute
+Steuerjahr (technisch: StichtagDatJahr)	Jahr, für welches die Steuer eingefordert wurde (Integer).
+Stadtkreis (Sort) (technisch: KreisSort)	Stadtkreiscode der aktuellen Wohnadresse (Integer).
+Stadtkreis (Code) (technisch: KreisCd)	Stadtkreiscode der aktuellen Wohnadresse (String).
+Stadtkreis (Lang) (technisch: KreisLang)	Stadtkreisname der aktuellen Wohnadresse (String).
+Steuertarif Sort (technisch: SteuerTarifSort)	Code des Steuertarifs, nach dessen die Steuern berechnet werden (Integer).
+Steuertarif Code (technisch: SteuerTarifCd)	Code des Steuertarifs, nach dessen die Steuern berechnet werden (String).
+Steuertarif (technisch: SteuerTarifLang)	Bezeichnung des Steuertarifs, nach dessen die Steuern berechnet werden (String).
+Medianwert (technisch: SteuerEinkommen_p50)	Medianwert des steuerbaren Einkommens natürlicher Personen in Zürich. In tausend Franken (Integer).
+P25-Wert (technisch: SteuerEinkommen_p25)	25%-Quantilwert des steuerbaren Einkommens natürlicher Personen in Zürich. In tausend Franken (Integer).
+P75-Wert (technisch: SteuerEinkommen_p75)	75%-Quantilwert des steuerbaren Einkommens natürlicher Personen in Zürich. In tausend Franken (Integer).

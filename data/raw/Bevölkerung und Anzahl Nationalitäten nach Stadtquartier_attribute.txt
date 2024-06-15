@@ -1,0 +1,9 @@
+Attribute
+Ereignisjahr (technisch: StichtagDatJahr)	Jahr
+Stadtquartier (Sort) (technisch: QuarSort)	Offizielle ID des Statistischen Stadtquartiers (Numerisch, 8 Zeichen lang)
+Stadtquartier (Code) (technisch: QuarCd)	Offizielle ID des Statistischen Stadtquartiers (CHAR, mit führender 0 bei zweistelligen Codes, 200 Zeichen lang)
+Stadtquartier (lang) (technisch: QuarLang)	Name des Statistischen Stadtquartiers (CHAR, 200 Zeichen lang)
+Datenstand (technisch: DatenstandCd)	Datenstand
+Wirtschaftliche Bevölkerung (technisch: AnzBestWir)	Anzal Personen aus der wirtschaftlichen Wohnbevölkerung
+Anzahl Nationalitäten (technisch: AnzNat)	Anzahl vorkommende Nationalitäten in der Wohnbevölkerung. Ohne Staatenlose oder wo der Heimatstaat unbekannt ist.
+Kategorien

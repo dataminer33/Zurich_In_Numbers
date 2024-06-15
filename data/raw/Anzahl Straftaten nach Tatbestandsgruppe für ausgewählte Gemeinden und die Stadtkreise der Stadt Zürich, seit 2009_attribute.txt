@@ -1,0 +1,15 @@
+Attribute
+Ausgangsjahr (technisch: Ausgangsjahr)	Jahr, in dem der Tatbestand stattfand. Datum.
+Gemeinde_BFS_Nr (technisch: Gemeinde_BFS_Nr)	ID der Gemeinde nach BFS-Nomenklatur. Integer.
+Gemeindename (technisch: Gemeindename)	Gemeindename. Character.
+Stadtkreis_BFS_Nr (technisch: Stadtkreis_BFS_Nr)	ID des Stadtkreises in der Stadt Zürich, gemäss BFS. Integer.
+Stadtkreis_Name (technisch: Stadtkreis_Name)	Name des Stadtkreises in der Stadt Zürich. Character.
+Gesetz_Nummer (technisch: Gesetz_Nummer)	Nummer des Gesetzes in welches der Tatbestand fällt. Integer.
+Gesetz_Abk (technisch: Gesetz_Abk)	Abkürzung des Gesetzes in welches der Tatbestand fällt. Character.
+Reihenfolge_Haupttitel (technisch: Reihenfolge_Haupttitel)	`Reihenfolge_Titel` weist für StGB die Reihenfolge der Titel des «Zweiten Buches: Besondere Bestimmungen» gemäss StGB, sowie für BetmG und AIG die Überkategorien (und deren Reihenfolge) gemäss Auswertungen im PKS Jahresbericht auf. Integer.
+Haupttitel (technisch: Haupttitel)	Eine v.a. für die zahlreichen StGB-Titel generalisierte Kategorie der wichtigsten Tatbestände. Character.
+Straftaten_total (technisch: Straftaten_total)	Anzahl der gesamten Straftaten. Integer.
+Straftaten_vollendet (technisch: Straftaten_vollendet)	Anzahl der vollendeten Straftaten. Integer.
+Straftaten_versucht (technisch: Straftaten_versucht)	Anzahl der versuchten Straftaten. Integer.
+Einwohner (technisch: Einwohner)	Anzahl Einwohner*innen. «Ständige Bevölkerung» gemäss BFS-Definition. Integer.
+Häufigkeitszahl (technisch: Häufigkeitszahl)	Anteil der Straftaten pro 1000 Anzahl Einwohner*innen. Integer.
