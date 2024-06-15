@@ -57,7 +57,7 @@ tabs = st.tabs(["Crimes Over Time", "Median Income","Nationality Distribution by
 # Load the data
 @st.cache_data
 def load_data():
-    data = pd.read_csv("Data/Clean_Zurich_Data_Income_Crime_Nationalities.csv")
+    data = pd.read_csv("Ddta/Clean_Zurich_Data_Income_Crime_Nationalities.csv")
     return data
 
 data = load_data()
@@ -66,7 +66,7 @@ years = data["Year"].unique()
 # Load GeoJSON data
 @st.cache_data
 def load_geojson():
-    with open("Data/stzh.adm_stadtkreise_a.json") as f:
+    with open("data/stzh.adm_stadtkreise_a.json") as f:
         geojson_data = json.load(f)
     return geojson_data
 
