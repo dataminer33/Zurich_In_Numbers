@@ -29,15 +29,8 @@ Get insights into the distribution of nationalities in each district of Zurich. 
 
 The data used in this dashboard is sourced from the [Stadt Zürich Open Data](https://data.stadt-zuerich.ch).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
 - Thanks to the Streamlit community for creating an amazing tool for data visualization.
 - Special thanks to the Stadt Zürich for providing the open data.
-
-## Contact
-
-For any questions or feedback, please reach out to [your-email@example.com].
