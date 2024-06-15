@@ -66,7 +66,7 @@ years = data["Year"].unique()
 # Load GeoJSON data
 @st.cache_data
 def load_geojson():
-    with open("data/processed/stzh.adm_stadtkreise_a.json") as f:
+    with open("data/raw/stzh.adm_stadtkreise_a.json") as f:
         geojson_data = json.load(f)
     return geojson_data
 
