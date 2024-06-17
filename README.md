@@ -4,6 +4,9 @@
 
 This Streamlit application provides an interactive dashboard to explore various aspects of criminal activities, median income, and nationality distribution across different districts of Zurich. The data is visualized using line charts, box plots, and choropleth maps.
 
+
+https://zurich-in-numbers.streamlit.app/
+
 ## Features
 
 ### Crimes Over Time
