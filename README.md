@@ -1,5 +1,7 @@
 # Zurich in Numbers Dashboard
 
+![Preview](./images/Zurich_in_numbers_preview.png)
+
 ## Overview
 
 This Streamlit application provides an interactive dashboard to explore various aspects of criminal activities, median income, and nationality distribution across different districts of Zurich. The data is visualized using line charts, box plots, and choropleth maps.
